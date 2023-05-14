@@ -8,12 +8,9 @@ Este programa es una idea que me surgió en el 2020 donde tenía un bajo nivel d
 /*Este es un programa que desarrolle con selenium en C# para automatizar el proceso de seguir a "X" personas sin hacer mas que brindarle mi usuario
  * contraseña y un usuario al cual acceder para que pueda seguir a 50 personas del perfil al que selecciones. 
  
- * Recuerda que solo estoy poniendo a prueba mis habilidades en la automatizacion de procesos tratando de automatizar este proceso sin que **META** pueda detectar
- * alguna violacion a sus terminos sobre el uso de Bots en sus plataformas, este es un codigo que aun no puede detectarse como si fuera un BOT pues actua con lasos de
- * tiempo prudentes que permiten que sea visto como actividades totalmente regulares de cualquier usuario comun.
+ * Recuerda que solo estoy poniendo a prueba mis habilidades en la automatizacion de procesos tratando de automatizar este proceso sin que **META** pueda detectar alguna violacion a sus terminos sobre el uso de Bots en sus plataformas, este es un codigo que aun no puede detectarse como si fuera un BOT pues actua con lasos de tiempo prudentes que permiten que sea visto como actividades totalmente regulares de cualquier usuario comun.
  
- * ACLARO: La idea de esto no es mas que poner a prueba mis abilidades en el area de la automatizacion de procesos creando automatizaciones sutiles que interactuan
- * con la plataforma igual que lo haria un usuario comun sin que la plataforma te limite las acciones debido a actividad sospechosa en tu perfil.
+ * ACLARO: La idea de esto no es mas que poner a prueba mis abilidades en el area de la automatizacion de procesos creando automatizaciones sutiles que interactuan con la plataforma igual que lo haria un usuario comun sin que la plataforma te limite las acciones debido a actividad sospechosa en tu perfil.
  
  * Recuerda: Debes tener los drivers de selenium para hacer funcionar el programa.
  */
